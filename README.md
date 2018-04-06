@@ -1,5 +1,5 @@
 # Welcome to SIA's codebase and home. 
-SIA is a data driven platform that recommends students on ideal career paths and graduate schools using information they wish to share.
+SIA is a digital mentor that recommends students on ideal career paths and graduate schools using information they wish to share.
 
 
 ## What we aim to do. 

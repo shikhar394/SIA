@@ -16,14 +16,8 @@ Our passion and determination to challenge the norms of “success” and help c
 ### [Ibrahim Saeed](https://www.linkedin.com/in/ibrahim-saeed-6a4b01144/) - **Marketing and Finance**
 *"My experiences in Pakistan, UAE, China, UK, and the US have given me diverse perspectives which allow me to think truly differently."*
 
-![Ibrahim](https://github.com/shikhar394/SIA/blob/master/images/Ibrahim.jpg)
-
 ### [Abdullah Mobeen](https://www.linkedin.com/in/abdullah-mobeen/) - **Product Development and Sales**
 *"My ability to envision new ideas and communicate them effectively. I have often found myself making others excited about new things."*
 
-![Abdullah](https://github.com/shikhar394/SIA/blob/master/images/Abdullah.jpg)
-
 ### [Shikhar Sakhuja](https://www.linkedin.com/in/shikhar394/) - **Engineer and Data Scientist**
 *"A passion for engineering and a strong perceptual acuity allows me to solve technical problems that requires me to deal with uncertainty."*
-
-![Shikhar](https://github.com/shikhar394/SIA/blob/master/images/Shikhar.jpg)

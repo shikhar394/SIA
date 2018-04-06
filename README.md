@@ -13,6 +13,11 @@ Our passion and determination to challenge the norms of “success” and help c
 
 ## The team
 
+![Ibrahim](https://github.com/shikhar394/SIA/blob/master/images/Ibrahim.jpg)
 ### [Ibrahim Saeed](https://www.linkedin.com/in/ibrahim-saeed-6a4b01144/)
+
+![Abdullah](https://github.com/shikhar394/SIA/blob/master/images/Abdullah.jpg)
 ### [Abdullah Mobeen](https://www.linkedin.com/in/abdullah-mobeen/)
+
+![Shikhar](https://github.com/shikhar394/SIA/blob/master/images/Shikhar.jpg)
 ### [Shikhar Sakhuja](https://www.linkedin.com/in/shikhar394/)

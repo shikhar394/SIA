@@ -13,15 +13,6 @@ Our passion and determination to challenge the norms of “success” and help c
 
 ## The team
 
-### Ibrahim Saeed 
-### Abdullah Mobeen
-### Shikhar Sakhuja
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shikhar394/SIA/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### [Ibrahim Saeed](https://www.linkedin.com/in/ibrahim-saeed-6a4b01144/)
+### [Abdullah Mobeen](https://www.linkedin.com/in/abdullah-mobeen/)
+### [Shikhar Sakhuja](https://www.linkedin.com/in/shikhar394/)

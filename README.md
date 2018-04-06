@@ -1,32 +1,22 @@
-## Welcome to GitHub Pages
+# Welcome to SIA's codebase and home. 
+SIA is a data driven platform that recommends students on ideal career paths and graduate schools using information they wish to share.
 
-You can use the [editor on GitHub](https://github.com/shikhar394/SIA/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## What we aim to do. 
+SIA aims to use artificial intelligence and machine learning algorithms to help recommend potentially ideal career paths for students based on the academic and professional experiences they wish to share, allowing students to explore a diverse range of fields and interests.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Our motivation behind starting this project.
+Contemporary culture tells us to reach certain milestones in order to be "successful" while these often drive us away from our true passion.
+Our passion and determination to challenge the norms of “success” and help college students achieve their dreams differentiate us from the crowd. Backed by our team’s mix of disciplines, passions, and skill sets, we confidently believe that we can tackle this pertinent issue effectively. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## The team
 
-- Bulleted
-- List
+### Ibrahim Saeed 
+### Abdullah Mobeen
+### Shikhar Sakhuja
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
